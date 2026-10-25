@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **[Private Project](#)** *(Private Repository)*
+- 🔭 Currently working on **Private Project** *(Private Repository)*
 - 🌱 Currently learning **WSL+Postgress**
 - 💼 Full portfolio: [neondsilvam.github.io/Programming_portfolio](https://neondsilvam.github.io/Programming_portfolio/)
 - 📫 Reach me at: **neon.d.silvam@gmail.com**
