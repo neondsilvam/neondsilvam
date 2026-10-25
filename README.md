@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **[Rekindled](#)** *(Private Repository)*
-- 🌱 Currently learning **React + Motion**
+- 🔭 Currently working on **[Private Project](#)** *(Private Repository)*
+- 🌱 Currently learning **WSL+Postgress**
 - 💼 Full portfolio: [neondsilvam.github.io/Programming_portfolio](https://neondsilvam.github.io/Programming_portfolio/)
 - 📫 Reach me at: **neon.d.silvam@gmail.com**
 - 💡 *"Don't reject bad ideas. They are bad ideas, but they could lead to good ideas."*
