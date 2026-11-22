@@ -39,9 +39,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/u/92/ubuntu-icon_thumb.png" alt="Ubuntu" width="40" height="40"/>
 </p>
 
-**Frameworks & Libraries**
+**Frameworks, Libraries and dev tools**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -52,6 +53,9 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  <img src="https://docs.openwebui.com/images/open-webui-icon.png" alt="Open-webUI" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/69962740?v=4" alt="ragflow" width="40" height="40"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/3840px-Docker-svgrepo-com.svg.png" alt="Docker" width="40" height="40"/>
 </p>
 
 **Game Development**
@@ -68,6 +72,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/3840px-Postgresql_elephant.svg.png" alt="Postgress" width="40" height="40"/>
 </p>
 
 **Design & Tools**
